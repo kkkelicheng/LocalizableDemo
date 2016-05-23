@@ -1,0 +1,12 @@
+
+
+// Important
+
+/* Localized versions of Info.plist keys */
+
+
+// 对工程的名字进行国际化
+// 新建一个String的，名字设置为InfoPlist
+// 然后跟Localizable一样点击Localization 对其设置
+
+"CFBundleDisplayName" = "EnglishName";

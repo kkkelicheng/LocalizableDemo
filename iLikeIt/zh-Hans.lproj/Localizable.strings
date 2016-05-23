@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  iLikeIt
+
+  Created by isunn on 16/5/23.
+  Copyright © 2016年 Raywenderlich. All rights reserved.
+*/
+
+
+"You like?" = "你喜欢?";
+
+"Yesterday you sold %@ apps" = "昨天你卖了 %@ apps";
+
+"myImageName" = "中文头像GUSTA";

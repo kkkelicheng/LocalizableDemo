@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  iLikeIt
+
+  Created by isunn on 16/5/23.
+  Copyright © 2016年 Raywenderlich. All rights reserved.
+*/
+
+
+
+// 新建一个String 文件，对其命名一定要是Localizable ，原因在宏定义中的参数。
+// 在 project 的国际化完成后，点击这个文件，然后检查属性对其设置localization
+
+"You like?" = "You like?";
+
+"Yesterday you sold %@ apps" = "Yesterday you sold %@ apps";
+
+"myImageName" = "ilike";
